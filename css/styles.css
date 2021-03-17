@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+  margin-top: 0;
+}
+
+h1 {
+  font-family: cursive;
+  color: #78a0cf;
+  padding-left: 20px
+}
+
+.header_div {
+  height: 50px;
+  width: 100%;
+  padding: 20px;
+  margin:0;
+  background-color: #f2fafd;
+}
+
+.text_div {
+  height: 500px;
+  width: 100%;
+  margin: 0;
+  background-color:#f2fafd;
+}
+
+.divider_hr {
+  border: none;
+  border-style: dotted;
+  border-top: 100px;
+  border-color: #6e77bd;
+  width: 100%;
+}
+
+.letter {
+  font-family: cursive;
+  color: #78a0cf;
+  padding: 20px 60px 20px 60px;
+
+  font-size: 24px;
+
+}
